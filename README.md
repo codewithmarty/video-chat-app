@@ -13,6 +13,9 @@ This is a video chat app that allows for live video conferencing between any two
 - HTML
 - CSS
 - JavaScript
+- WebRTC
+- Firebase 9
+- Firestore
 
 ## Deployment
 
